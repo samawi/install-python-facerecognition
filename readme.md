@@ -2,7 +2,7 @@
 
 ## Windows
 
-# dlib installation
+### dlib installation
 Requirements:
 1. Visual Studio Express (possibly)
 2. 
