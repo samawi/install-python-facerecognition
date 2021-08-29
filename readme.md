@@ -24,6 +24,18 @@ Steps:
 6. Install tesseract: `brew install tesseract`
 7. Install ffmpeg: `brew install ffmpeg`
 
+### Ubuntu
+1. install miniconda from [here](https://docs.conda.io/en/latest/miniconda.html#linux-installers)
+2. create new environment: `conda create -n face_recognition python=3.8`
+3. activate environment: `conda activate face_recognition`
+4. install cmake: `sudo apt install cmake`
+5. install build-essentials etc: `sudo apt install build-essential cmake pkg-config`
+6. download and build dlib from [this link](http://dlib.net/) and following [this instructions](https://learnopencv.com/install-dlib-on-ubuntu/)
+7. install cv2: `pip install opencv-python`
+8. install face_recognition: `pip install face_recognition`
+9. install tensorflow: `conda install tensorflow`
+10. install keras: `conda install keras`
+
 
 
 ### Other notes:
