@@ -24,7 +24,7 @@ Steps:
 6. Install tesseract: `brew install tesseract`
 7. Install ffmpeg: `brew install ffmpeg`
 
-### Ubuntu
+### Ubuntu/Linux
 1. install miniconda from [here](https://docs.conda.io/en/latest/miniconda.html#linux-installers)
 2. create new environment: `conda create -n face_recognition python=3.8`
 3. activate environment: `conda activate face_recognition`
